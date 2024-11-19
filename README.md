@@ -60,3 +60,4 @@ Outputs the predicted winner and detailed results for all matches.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and adapt it!
+# FIFA-World-Cup-Winner-Prediction-Using-Poisson-Distribution
