@@ -1,5 +1,5 @@
 # FIFA-World-Cup-Winner-Prediction-Using-Poisson-Distribution
-This project predicts the FIFA World Cup champion using historical data, match fixtures, and simulations. By leveraging web scraping, Poisson distribution modeling, and a data-driven approach, this project stands as a demonstration of my data analysis and machine learning skills acquired during my bootcamp.
+This project predicts the FIFA World Cup champion using historical data, match fixtures, and simulations. By leveraging web scraping, Poisson distribution modeling, and a data-driven approach.
 ### Project Highlights
 Utilized BeautifulSoup and requests for scraping real match data.
 Modeled match outcomes using the Poisson distribution.
@@ -58,6 +58,5 @@ Outputs the predicted winner and detailed results for all matches.
 #### Integrate dashboards with Streamlit or Plotly for interactive analysis.
 #### Incorporate real-time match updates to refine predictions dynamically.
 
-## License
-This project is licensed under the MIT License. Feel free to use and adapt it!
+
 # FIFA-World-Cup-Winner-Prediction-Using-Poisson-Distribution
